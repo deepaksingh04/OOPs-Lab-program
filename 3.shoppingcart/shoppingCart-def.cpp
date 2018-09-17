@@ -18,10 +18,7 @@ void ITEM:: getItemDetails()
 
 void ITEM :: display()
 {	
-	/*cout << "Name              : " << name << endl;
-	cout << "Item Code         : " << codeNo << endl;
-	cout << "Price Per Piece   : " << price << endl;
-	cout << "Quantity In Cart  : " << quantity <<endl<<endl;*/
+
 cout<<left<<setw(15)<<"Name"<<left<<setw(20)<<"Item Code "<<left<<setw(20)<<"Price Per Piece"<<left<<setw(20)<<"Quantity In Cart"<<endl;
 cout<<left<<setw(15)<<name<<left<<setw(20)<<codeNo<<left<<setw(20)<<price<<left<<setw(20)<<quantity<<endl;	
 	
