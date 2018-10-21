@@ -1,5 +1,4 @@
 #include "electricityBill.h"
-
 void USER:: readDetails()
 {
 
