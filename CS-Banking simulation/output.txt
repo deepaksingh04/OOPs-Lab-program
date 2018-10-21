@@ -1,0 +1,141 @@
+asterisk30 (master *) CS-Banking simulation $ ./a.out
+Enter Account Type :-
+1. Savings  2. Current
+1
+Enter your name :Ram
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+1
+Enter deposit amount(minimum 1000 for current account initially ) :-100
+You cannot deposit a negative amount.
+
+Account no: 10013  Name: Ram  Balance: 0
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+1
+Enter deposit amount(minimum 1000 for current account initially ) :5600
+
+Account no: 10013  Name: Ram  Balance: 5600
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+2
+Enter the amount you want to withdraw:5700
+Not enough balance.
+
+Account no: 10013  Name: Ram  Balance: 5600
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+3
+
+Chequebook not available for savings account
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+4
+Enter time period in months: 2
+
+Interest = 56
+Account no: 10013  Name: Ram  Balance: 5656
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+5
+Enter Account Type :-
+1. Savings  2. Current
+2
+Enter your name:shyam        
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+1
+Enter deposit amount(minimum 1000 for current account initially ) :1001
+
+Account no: 10014  Name: shyam  Balance: 1001
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+2
+Enter the amount you want to withdraw:6500
+Not enough balance.
+
+Account no: 10014  Name: shyam  Balance: 1001
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+2
+Enter the amount you want to withdraw:550
+
+Account no: 10014  Name: shyam  Balance: 451
+Service charge of 90.2 is imposed for not maintaining minimum balance
+
+Account no: 10014  Name: shyam  Balance: 360.8
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+4
+No interest for current accounts
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+3
+
+Your chequebook number is 10014
+
+Account no: 10014  Name: shyam  Balance: 360.8
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+2
+Enter the amount you want to withdraw:360.8
+
+Account no: 10014  Name: shyam  Balance: 0
+
+1.Deposit
+2.Withdraw
+3.Get Chequebook
+4.Calculate Interest and change balance 
+5.Create otherAccount
+6.Exit
+6
+asterisk30 (master *) CS-Banking simulation $ 
+

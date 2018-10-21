@@ -9,7 +9,7 @@ int main()
 	CIRCLE ob1;
 	RECTANGLE ob2;
 	SQUARE ob3;
-	cout<<"1. CIRCLE\n2. RECTANGLE\n3. SQUARE\nEnter your choice : ";
+	cout<<"\n1. CIRCLE\n2. RECTANGLE\n3. SQUARE\nEnter your choice : ";
 	cin>>ch;
 	
 	switch(ch)
