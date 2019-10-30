@@ -67,7 +67,7 @@ void Queue<T>::enqueue()
 	cin>>ele;
 	a[++r]=ele;
 }
-
+// template based queue
 template <class T>
 T Queue<T>::dequeue()
 {	T x;
